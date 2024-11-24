@@ -58,7 +58,7 @@ How to Run
 
  1. Clone the repository:
 
-git clone https://github.com/Meehdi/Clusstering_with_k_means.git
+git clone https://github.com/Meehdif/Clusstering_with_k_means.git
 cd online-retail-clustering
 
 
